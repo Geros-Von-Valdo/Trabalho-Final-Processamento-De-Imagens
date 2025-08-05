@@ -19,11 +19,3 @@ Facilitar o registro visual do conteúdo escrito em quadro durante aulas presenc
 - [scikit-image](https://scikit-image.org/) – para cálculo de similaridade (SSIM)
 - [tqdm](https://github.com/tqdm/tqdm) – barra de progresso
 
----
-
-## 📦 Instalação
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
